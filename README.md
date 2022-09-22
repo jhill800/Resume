@@ -1,2 +1,2 @@
 # Resume
-work in progress resume website
+This is an HTML site that expands on my resume 
