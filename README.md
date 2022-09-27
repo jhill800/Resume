@@ -1,2 +1,2 @@
-# Resume
-This is an HTML site that expands on my resume. I created this website because I am interested in web development, but havent yet had the oppurtunity to learn more about it through my coursework. I plan to expand this website as I learn more about web development.
+# Resume Website
+This is an HTML site that expands on my resume which can be viewed at https://jhill800.github.io/Resume/. I created this website because I am interested in web development, but have not yet had the oppurtunity to learn more about it through my coursework. I've been using this site as a way to impliment new concepts as I further my understanding of web development with HTML. I plan to expand this website to include a full portfolio and a blog.
